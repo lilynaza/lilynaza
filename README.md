@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**lilynaza/lilynaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![data](https://user-images.githubusercontent.com/78624637/190884440-2453d4a1-47d7-4b1b-a278-77bbe921962e.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

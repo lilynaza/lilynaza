@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![data](https://user-images.githubusercontent.com/78624637/190884440-2453d4a1-47d7-4b1b-a278-77bbe921962e.jpg)
+![data (2)](https://user-images.githubusercontent.com/78624637/190884537-4f3f3aea-7b1d-41bd-b659-791db2b82379.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
